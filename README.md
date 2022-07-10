@@ -1,3 +1,17 @@
+#first clone the git project
+
+git clone <repo>
+
+#install all dependencies
+
+yarn
+
+#run server
+
+yarn start
+
+#make sure that you have internet access because we have fetched data on this app from some online endpoint
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
